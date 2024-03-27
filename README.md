@@ -7,9 +7,11 @@
 - :books: Full Stack JAVA [**Proway**](https://www.linkedin.com/company/prowayinfo/)
 - :books: Back-end JAVA [**Entra21**](https://www.linkedin.com/company/entra21blusoft/)
 
-**
+
 - :gem: Skills: Java, Javascript, HTML, CSS, PostgreSQL, Angular, UML, UI Design.
-- :dart: Studing: API`s and JAVA. 
+- :dart: Studing: API`s and JAVA.
+
+  
 
 <div align="center">
   <a href="https://github.com/leticiazalasik">
