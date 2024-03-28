@@ -4,9 +4,9 @@
 
 ## Hi there! I am Letícia, full stack Java development student. 
 
-:books: Full Stack JAVA [**Proway**](https://www.linkedin.com/company/prowayinfo/)
+:books: Studying Full Stack JAVA [**Proway**](https://www.linkedin.com/company/prowayinfo/)
 
-:books: Back-end JAVA [**Entra21**](https://www.linkedin.com/company/entra21blusoft/)
+:books: Studying Back-end JAVA [**Entra21**](https://www.linkedin.com/company/entra21blusoft/)
 ##
 :gem: Skills: Java, Javascript, HTML, CSS, PostgreSQL, Angular, UML, UI Design.
 
