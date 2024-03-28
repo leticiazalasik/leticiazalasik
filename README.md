@@ -20,7 +20,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiazalasik&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiazalasik&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
+<br> 
+    
 ### Best Projects 🔥
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiazalasik&repo=Menu-Pizzaria&theme=dark&hide_border=true)](https://github.com/leticiazalasik/Front-Menu-Pizzaria)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiazalasik&repo=App-alunas&theme=dark&hide_border=true)](https://github.com/leticiazalasik/Front-App-alunas)
