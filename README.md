@@ -22,6 +22,6 @@
 </div>
 
 # Best Projects 🔥
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-Arkanoid&theme=dark&hide_border=true)](https://github.com/leticiazalasik/Menu-Pizzaria)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-GPT3-React&theme=dark&hide_border=true)](https://github.com/leticiazalasik/App-alunas)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adolfosp&repo=Front-Alpaca-Generator&theme=dark&hide_border=true)](https://github.com/leticiazalasik/Dashboard--triangulo-doacao-menu)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiazalasik&repo=Front-Menu-Pizzaria&theme=dark&hide_border=true)](https://github.com/leticiazalasik/Menu-Pizzaria)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiazalasik=Front-App-alunas&theme=dark&hide_border=true)](https://github.com/leticiazalasik/App-alunas)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiazalasik=Front-Dashboard--triangulo-doacao-menu&theme=dark&hide_border=true)](https://github.com/leticiazalasik/Dashboard--triangulo-doacao-menu)
