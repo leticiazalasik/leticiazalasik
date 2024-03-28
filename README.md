@@ -22,7 +22,7 @@
 </div>
 <br> 
     
-### Best Projects 🔥
+### Favorites Projects 🔥
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiazalasik&repo=Menu-Pizzaria&theme=dark&hide_border=true)](https://github.com/leticiazalasik/Front-Menu-Pizzaria)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiazalasik&repo=App-alunas&theme=dark&hide_border=true)](https://github.com/leticiazalasik/Front-App-alunas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiazalasik&repo=Dashboard--triangulo-doacao-menu&theme=dark&hide_border=true)](https://github.com/leticiazalasik/Front-Dashboard--triangulo-doacao-menu)
