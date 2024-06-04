@@ -8,9 +8,8 @@
 
 :books: Studying Back-end JAVA [**Entra21**](https://www.linkedin.com/company/entra21blusoft/)
 ##
-:gem: Skills: Java, Javascript, HTML, CSS, PostgreSQL, Angular, UML, UI Design.
 
-:dart: Studing: API`s and JAVA.
+:dart: Studing: Agile Methodologies.
 
 <div style="display: inline_block"> <br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
