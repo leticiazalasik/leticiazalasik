@@ -6,10 +6,11 @@
 
 :books: Studying Full Stack JAVA [**Proway**](https://www.linkedin.com/company/prowayinfo/)
 
-:books: Studying Back-end JAVA [**Entra21**](https://www.linkedin.com/company/entra21blusoft/)
+:mortar_board: Graduated in Java Back-end by Entra21 [**Entra21**](https://www.linkedin.com/company/entra21blusoft/)
 ##
 
 :dart: Studing: Agile Methodologies.
+:earth_americas: Brazil, Blumenau-SC. 
 
 <div style="display: inline_block"> <br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
