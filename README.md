@@ -6,7 +6,7 @@
 
 :books: Studying Full Stack JAVA [**Proway**](https://www.linkedin.com/company/prowayinfo/)
 
-:mortar_board: Graduated in Java Back-end by Entra21 [**Entra21**](https://www.linkedin.com/company/entra21blusoft/)
+:mortar_board: Graduated in Java Back-end by [**Entra21**](https://www.linkedin.com/company/entra21blusoft/)
 ##
 
 :dart: Studing: Agile Methodologies.
