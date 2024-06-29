@@ -10,6 +10,7 @@
 ##
 
 :dart: Studing: Agile Methodologies.
+##
 :earth_americas: Brazil, Blumenau-SC. 
 
 <div style="display: inline_block"> <br/>
