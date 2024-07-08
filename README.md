@@ -4,7 +4,7 @@
 
 ## Hi there! I am Letícia, full stack Java development student. 
 
-:woman_technologist: Junior developer. Node.Js at [**@SouJunior**](https://github.com/SouJunior) 
+:woman_technologist: Junior developer Node.Js at [**@SouJunior**](https://github.com/SouJunior) 
 
 :books: Studying Full Stack JAVA [**Proway**](https://www.linkedin.com/company/prowayinfo/)
 
