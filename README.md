@@ -4,11 +4,12 @@
 
 ## Hi there! I am Letícia, full stack Java development student. 
 
+:woman_technologist: Junior developer. Node.Js at @SouJunior. 
+
 :books: Studying Full Stack JAVA [**Proway**](https://www.linkedin.com/company/prowayinfo/)
 
 :mortar_board: Graduated in Java Back-end by [**Entra21**](https://www.linkedin.com/company/entra21blusoft/)
 
-:woman_technologist: job: Junior developer. Node.Js at @souJunior. 
 ##
 
 :dart: Studing: Agile Methodologies.
