@@ -7,6 +7,7 @@
 :woman_technologist: Junior developer Node.Js at [**@SouJunior**](https://github.com/SouJunior) 
 
 :books: Studying Full Stack JAVA [**Proway**](https://www.linkedin.com/company/prowayinfo/)
+
 :books: Studying Systems Analysis and Development [**Senai**](https://cursos.sesisenai.org.br/curso/superior-de-tecnologia-em-analise-e-desenvolvimento-de-sistemas/301/oferta/98608)
 
 
