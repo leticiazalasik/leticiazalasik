@@ -15,7 +15,7 @@
 
 ##
 
-:dart: Studing: Agile Methodologies.
+:dart: Studing: Java back-end and information security.
 
 :earth_americas: Brazil, Blumenau-SC. 
 
