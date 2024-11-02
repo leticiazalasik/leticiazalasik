@@ -6,12 +6,12 @@
 
 :woman_technologist: Junior developer Node.Js at [**@SouJunior**](https://github.com/SouJunior) 
 
-:books: Studying Full Stack JAVA at [**Proway**](https://www.linkedin.com/company/prowayinfo/)
-
 :books: Studying Systems Analysis and Development at [**Senai**](https://cursos.sesisenai.org.br/curso/superior-de-tecnologia-em-analise-e-desenvolvimento-de-sistemas/301/oferta/98608)
 
 
 :mortar_board: Graduated in Java Back-end by [**Entra21**](https://www.linkedin.com/company/entra21blusoft/)
+:mortar_board: Studying Full Stack JAVA at [**Proway**](https://www.linkedin.com/company/prowayinfo/)
+
 
 ##
 
