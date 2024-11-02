@@ -10,7 +10,8 @@
 
 
 :mortar_board: Graduated in Java Back-end by [**Entra21**](https://www.linkedin.com/company/entra21blusoft/)
-:mortar_board: Studying Full Stack JAVA at [**Proway**](https://www.linkedin.com/company/prowayinfo/)
+
+:mortar_board: Graduated in Full Stack JAVA at [**Proway**](https://www.linkedin.com/company/prowayinfo/)
 
 
 ##
