@@ -56,7 +56,7 @@
     
 ### Favorites Projects 🔥
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiazalasik&repo=App-Fight-Finder---Projeto-TCC&theme=dark&hide_border=true)](https://github.com/leticiazalasik/App-Fight-Finder---Projeto-TCC)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiazalasik&repo=Menu-Pizzaria&theme=dark&hide_border=true)](https://github.com/leticiazalasik/Menu-Pizzaria)
+[![Readme Card](https://github.com/leticiazalasik/Site-Noticias)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiazalasik&repo=App-alunas&theme=dark&hide_border=true)](https://github.com/leticiazalasik/App-alunas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiazalasik&repo=Dashboard--triangulo-doacao-menu&theme=dark&hide_border=true)](https://github.com/leticiazalasik/Dashboard--triangulo-doacao-menu)
 
