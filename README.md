@@ -56,6 +56,7 @@
     
 ### Favorites Projects 🔥
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiazalasik&repo=App-Fight-Finder---Projeto-TCC&theme=dark&hide_border=true)](https://github.com/leticiazalasik/App-Fight-Finder---Projeto-TCC)
+[![Readme Card](https://github.com/leticiazalasik/Site-Noticias&theme=dark&hide_border=true)]([https://github.com/leticiazalasik/App-Fight-Finder---Projeto-TCC](https://github.com/leticiazalasik/Site-Noticias))
 
 
 
