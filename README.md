@@ -57,6 +57,9 @@
 ### Favorites Projects 🔥
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiazalasik&repo=App-Fight-Finder---Projeto-TCC&theme=dark&hide_border=true)](https://github.com/leticiazalasik/App-Fight-Finder---Projeto-TCC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiazalasik&repo=Site-Noticias&theme=dark&hide_border=true)](https://github.com/leticiazalasik/Site-Noticias)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiazalasik&repo=JS-jogo-mario&theme=dark&hide_border=true)](https://github.com/leticiazalasik/JS-jogo-mario)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leticiazalasik&repo=vagas-api&theme=dark&hide_border=true)](https://github.com/leticiazalasik/vagas-api)
+
 
 
 
