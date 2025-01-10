@@ -20,7 +20,7 @@
 
 ##
 
-:dart: Studing: Java back-end and information security.
+:dart: Studing: Nest and React.
 
 :earth_americas: Brazil, Blumenau-SC. 
 
