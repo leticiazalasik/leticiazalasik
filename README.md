@@ -7,9 +7,6 @@
 
 :woman_technologist: Software development intern at [**PremierSoft**](https://www.linkedin.com/company/premiersoft/) 
 
-
-:woman_technologist: Junior developer Node.Js at [**@SouJunior**](https://github.com/SouJunior) 
-
 :books: Studying Systems Analysis and Development at [**Senai**](https://cursos.sesisenai.org.br/curso/superior-de-tecnologia-em-analise-e-desenvolvimento-de-sistemas/301/oferta/98608)
 
 
