@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-araújo-silva-7906b380/)](https://www.linkedin.com/in/leticiazalasik/)
 
-## Hi there! I am Letícia, full stack Java development student. 
+## Hi there! I am Letícia, full stack development student. 
 
 
 :woman_technologist: Software development intern at [**PremierSoft**](https://www.linkedin.com/company/premiersoft/) 
