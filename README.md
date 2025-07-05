@@ -17,7 +17,7 @@
 
 ##
 
-:dart: Studing: Nest and React.
+:dart: Studing: React.
 
 :earth_americas: Brazil, Blumenau-SC. 
 
